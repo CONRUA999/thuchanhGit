@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
-    //binh phu
+    //binh phuong 1 so 
+    int a,b,c;
 }
 
